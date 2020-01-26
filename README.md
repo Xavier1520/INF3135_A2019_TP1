@@ -76,26 +76,3 @@ Le nombre de tests réussis et de tests échoués seront aussi affichés.
 
 * [Tournoi toutes rondes](https://fr.wikipedia.org/wiki/Tournoi_toutes_rondes);
 * [Table de Berger](https://fr.wikipedia.org/wiki/Table_de_Berger).
-
-## État du projet
-
-* [x] Le nom du dépôt GitLab est exactement `inf3135-aut2019-tp1` (Pénalité de
-  **50%**).
-* [x] L'URL du dépôt GitLab est exactement (remplacer `utilisateur` par votre
-  nom identifiant GitLab) `https://gitlab.info.uqam.ca/utilisateur/inf3135-aut2019-tp1`
-  (Pénalité de **50%**).
-* [x] L'utilisateur `blondin_al` (groupe 20) ou `francoeur_g` (groupe 40)
-  a accès au projet en mode *Developer* (Pénalité de **50%**).
-* [x] Le dépôt GitLab est un **clone** de [ce
-  dépôt](https://gitlab.info.uqam.ca/inf3135-aut2019/inf3135-aut2019-tp1)
-  (Pénalité de **50%**).
-* [x] Le dépôt GitLab est privé (Pénalité de **50%**).
-* [x] Le dépôt contient au moins un fichier `.gitignore`.
-* [x] Le fichier `Makefile` permet de compiler le projet lorsqu'on entre
-  `make`. Il supporte les cibles `html`, `test` et `clean`.
-* [x] Le nombre de tests qui réussissent/échouent avec la `make test` est
-  indiqué.
-* [x] Les sections incomplètes de ce fichier (`README.md`) ont été complétées.
-* [x] L'en-tête du fichier est documentée.
-* [x] L'en-tête des prototypes des fonctions est documentée (*docstring*).
-* [x] Le programme ne contient pas de valeurs magiques.
