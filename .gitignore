@@ -1,0 +1,14 @@
+# Fichiers C
+*.o
+*.out
+tournament
+
+# Fichiers Vim
+*.swo
+*.swp
+
+# Fichiers temporaires
+*.save
+*.old
+*.tmp
+*.bak
